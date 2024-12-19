@@ -2,6 +2,7 @@ I forked this repo to upload the jscad files as STL for easier use. JSCAD had re
 
 This includes a 40mm fan array for the 1u supermicro chassis, a 40mm adapter for the back of a PSU, 2.5" SSD trays and an air shroud. Personally I am using them in re-purposed barracuda appliance chassis.
 
+Original Repo: https://github.com/c-leitner/3d-models
 ##OLD READ ME
 # 3d-models
 A small collection of 3d-models I have designed in openjscad.org
